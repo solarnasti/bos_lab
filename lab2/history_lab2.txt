@@ -35,6 +35,3 @@
    35  cat file
    36  ls -lR > ../access_info.txt
    37  history > history_lab2.txt
-   38  cd lab2
-   39  cd ~/bos_lab/lab2
-   40  history > history_lab2.txt
