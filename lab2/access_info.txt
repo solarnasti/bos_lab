@@ -1,0 +1,10 @@
+.:
+итого 8
+drw-rw-rw- 2 solarnasti solarnasti 4096 окт  9 23:58 dir
+-rw-r----- 1 solarnasti solarnasti    5 окт  9 23:57 file
+-rw------- 1 solarnasti solarnasti    0 окт 10 00:00 file1
+-rw-rw-rw- 1 solarnasti solarnasti    0 окт 10 00:00 file2
+
+./dir:
+итого 0
+-????????? ? ? ? ?            ? new_file
