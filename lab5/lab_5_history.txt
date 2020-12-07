@@ -1,3 +1,5 @@
+  259  touch lab_5.txt
+  260  gedit lab_5.txt 
   261  ps -e
   262  ps -ef
   263  ps -eF
