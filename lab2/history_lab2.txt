@@ -1,0 +1,37 @@
+    1  clear
+    2  cd ~/bos_lab/lab2
+    3  mkdir test
+    4  cd test
+    5  touch file
+    6  ls -l file
+    7  chmod 0000 file
+    8  echo "testik" > file
+    9  cat file
+   10  chmod 0200 file
+   11  ll file
+   12  echo "test" > file
+   13  cat file
+   14  chmod 0640 file
+   15  ll file
+   16  cat file
+   17  mkdir dir
+   18  touch dir/new_file
+   19  echo "file 2" > dir/new_file
+   20  ls dir
+   21  chmod 0666 dir
+   22  ls -l dir
+   23  ls -l
+   24  cat dir/new_file
+   25  chown root file
+   26  chgrp root file
+   27  umask 0177
+   28  touch file1
+   29  umask 0000
+   30  touch file2
+   31  ll file2
+   32  su
+   33  cat file
+   34  su
+   35  cat file
+   36  ls -lR > ../access_info.txt
+   37  history > history_lab2.txt
