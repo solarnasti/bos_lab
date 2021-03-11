@@ -1,1 +1,1 @@
-# bos_lab
+# blockciphers-solarnasti
